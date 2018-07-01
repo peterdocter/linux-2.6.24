@@ -2,7 +2,7 @@
 
 本仓库已经开始作为gitbook仓库，访问地址
 
-<https://yifengyou.gitbooks.io/linux-2.6.24/content/>
+<https://yifengyou.gitbooks.io/linux-2-6-24/content/>
 
 GitHub访问地址
 
